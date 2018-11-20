@@ -8,4 +8,6 @@ num3 = fuck.this.python
 
 num4 =who.fuck.this.python
 
-num5 = who.fuck.this.git
+num5 = who.fuck.this.git.what 
+
+num6 = who.what.this.fuck
